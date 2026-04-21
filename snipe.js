@@ -1410,7 +1410,6 @@ async function showMainMenu(ctx, edit = false) {
     
     const message = `
 🚀 *Welcome to @WTFSnipeXBot Trading Bot* 🤖
-
 *I'm your Web3 execution engine*.
 AI-driven. Battle-tested. Locked down.
 ━━━━━━━━━━━━━━━━━━
