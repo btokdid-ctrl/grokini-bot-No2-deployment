@@ -1409,7 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome to @WTFSnipeXBot Trading Bot* 🤖
+🚀 *Welcome to Trade Wiz Trading Bot* 🤖
 *I'm your Web3 execution engine*.
 AI-driven. Battle-tested. Locked down.
 ━━━━━━━━━━━━━━━━━━
